@@ -26,7 +26,7 @@ React 기반으로 제작된 **학급 자리 뽑기 & 랜덤 학생 선택 웹 �
 
 1. 저장소를 클론(Clone)합니다.
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/student-picker.git](https://github.com/YOUR_USERNAME/student-picker.git)
+   git clone [https://github.com/forjo1sungmin-rgb/student-picker.git](https://github.com/forjo1sungmin-rgb/student-picker.git)
    cd student-picker
 패키지를 설치합니다.
 
